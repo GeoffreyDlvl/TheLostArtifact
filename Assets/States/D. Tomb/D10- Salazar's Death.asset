@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D10- Salazar's Death
+  m_EditorClassIdentifier: 
+  storyText: 'In a matter of seconds, the ground seems to tear open. Walls fall on
+    themselves and pieces of the ceiling collapse and crash on the ground with a
+    roar.
+
+    
+
+    A massive rock crushes Salazar burying him and the Lost Artifact.
+
+    
+
+    You
+    don''t have much time to think. What do you do?!
+
+    1. Rush to the pile of
+    rock where Salazar is buried and try to recover the Lost Artifact.
+
+    2. Run
+    away.'
+  nextStates:
+  - {fileID: 11400000, guid: b976a24604e897f43a158762768d8232, type: 2}
+  - {fileID: 11400000, guid: 73c7fa3ff89eb08409298d00890857a3, type: 2}

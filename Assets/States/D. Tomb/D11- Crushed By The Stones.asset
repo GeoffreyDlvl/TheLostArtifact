@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D11- Crushed By The Stones
+  m_EditorClassIdentifier: 
+  storyText: 'As Dominguez is running to the exit, you go the opposite direction
+    and rush to where Salazar was crushed in a desperate attempt to recover the Lost
+    Artifact. You spent months looking for this ancient and mysterious Mayan relic
+    and you weren''t ready to give up just now.
+
+
+
+    You lift rocks out of the
+    way, hurting your hands, all your muscles are sore and the whole world seems
+    to collapse around you.
+
+
+
+    Finally, you see it. It''s beautiful. It''s unique.
+    You just need to reach for it and it will be yours. But as you extend your hand
+    to grab the Lost Artifact, a massive piece of wall falls upon you, crushing you
+    bones into a million pieces.
+
+
+
+    Did you really expect to survive this chaos?
+
+
+
+    1.
+    Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: b8a1a88d2ca0452428a44cb7606b62c2, type: 2}
+  achievement: Like a rolling stone

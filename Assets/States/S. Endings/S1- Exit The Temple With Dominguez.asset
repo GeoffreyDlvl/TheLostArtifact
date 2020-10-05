@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: S1- Exit The Temple With Dominguez
+  m_EditorClassIdentifier: 
+  storyText: 'You run back to Dominguez. One of his legs is stuck under the spears.
+    A piece of the deadly trap gave way under the weight of the debris and pierced
+    through his calf until you could pull himself out.
+
+    There''s not time to
+    think as the whole temple is collapsing on itself. All you can do is try to pull
+    your friend.
+
+    With the little strength you have left, you pull as hard as
+    you can until you hear Dominguez scream louder with pain when the piece of metal
+    rips his muscle apart and free him.
+
+    You drag Dominguez out of the temple,
+    leaving a trail of blood behind you.
+
+    
+
+    You reach the exit with Dominguez.
+    You turn around to see the temple disappear into the ground, leaving nothing
+    but a wide chasm in the middle of the jungle.
+
+    
+
+    You hold your crying
+    friend against you as you reach for your radio in your backpack.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: d7cb2f788c084044a8e630925ae14455, type: 2}
+  achievement: Forgiveness

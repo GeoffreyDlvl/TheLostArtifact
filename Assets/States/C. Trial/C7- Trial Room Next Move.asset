@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: C7- Trial Room Next Move
+  m_EditorClassIdentifier: 
+  storyText: 'With Salazar and his men right behind you, you can''t stay here forever.
+    Now is the time to make a decision.
+
+
+    What should you do now?
+
+    1. Just
+    cross the corridor, you can''t afford to lose any more time.
+
+    2. Carefully
+    walk on the slightly elevated stones.
+
+    3. Carefully avoid the slightly elevated
+    stones.'
+  nextStates:
+  - {fileID: 11400000, guid: 4125d418eccc01e4f9966787ff7cafc0, type: 2}
+  - {fileID: 11400000, guid: 4125d418eccc01e4f9966787ff7cafc0, type: 2}
+  - {fileID: 11400000, guid: 3aabf6e1a3ba55b409e49e9e26ba86e1, type: 2}
+  achievement: 

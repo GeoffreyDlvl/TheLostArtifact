@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A10- Win The Fight
+  m_EditorClassIdentifier: 
+  storyText: 'You throw your fist with all your strength into the jaw of the man.
+    Teeth and blood fly around as he screams with pain. He let go of his rifle and
+    you see an opening to grab his gun.
+
+
+    You aim at the man who kneels and starts
+    crying, begging for his life.
+
+
+    What''s your decision?
+
+    1. You are not
+    a killer. You knock him out with the cross of the gun.
+
+    2. A moment before,
+    he wouldn''t have hesitated to kill you. Why should you? Execute him.'
+  nextStates:
+  - {fileID: 11400000, guid: 40e8ba417076f324da2f1287af53fc35, type: 2}
+  - {fileID: 11400000, guid: 9dbc1966139382f459dc35a7237eafb0, type: 2}
+  achievement: 

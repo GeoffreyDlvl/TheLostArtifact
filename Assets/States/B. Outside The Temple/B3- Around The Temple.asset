@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: B3- Around The Temple
+  m_EditorClassIdentifier: 
+  storyText: 'You walk around the temple. Dominguez and you can''t help but share
+    how amazing the architecture is. The temple has been preserved from men for centuries
+    and remain in excellent condition. Complex engravings run all over the walls.
+    Dominguez would love to study them, but with Salazar''s men around, you need
+    to hurry.
+
+
+    There doesn''t seem to have any opening into the temple and soon
+    enough, you''re back at the main door.
+
+
+    What should you do now?
+
+    1.
+    Ask Dominguez for a clue.'
+  nextStates:
+  - {fileID: 11400000, guid: 08ff94e6f0b9f96428482c69268bd3c5, type: 2}
+  achievement: 

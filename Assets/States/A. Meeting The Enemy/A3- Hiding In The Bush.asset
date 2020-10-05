@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A3- Hiding In The Bush
+  m_EditorClassIdentifier: 
+  storyText: 'With a swift sign of the head, you make you intention to approach the
+    group clear to Dominguez. You move forward through the jungle, making your best
+    to bypass the clearing and stay into the shadows of the high trees. Dominguez
+    reluctantly follows you.
+
+
+    You soon get close enough to hear men talking
+    in Spanish. Dominguez, your friend and guide, whispers in your ear than they
+    plan to "get in"  as soon as "the boss" gives the green light.
+
+
+    What should
+    you do now?
+
+    1. You don''t need the green light, just push forward now.
+
+    2.
+    Hide in the bushes and keep listening to them.'
+  nextStates:
+  - {fileID: 11400000, guid: 935636fe432f3984da61a6f44f332c37, type: 2}
+  - {fileID: 11400000, guid: 64287a853d4754c4886fe5cdd2589f7e, type: 2}
+  achievement: 

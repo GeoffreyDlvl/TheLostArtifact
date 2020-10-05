@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A5- Questioning
+  m_EditorClassIdentifier: 
+  storyText: 'You''re kneeling, your hands behind your head. Salazar looks at your
+    face and screams with surprise.
+
+
+    "You?! The reporter?"
+
+
+    He bursts into
+    laughter. A joyless laugh that will haunt you forever, supposing that you survive
+    this misfortune.
+
+
+    "Tell me, why risk you life for an old piece of metal?"
+
+
+    What
+    do you answer Salazar?
+
+    1. "Why I risk my life doesn''t concern you!"
+
+    2.
+    "Well, for the same reasons as you. You''re no stranger to the fact that this
+    piece of metal, as you call it, is worth millions."
+
+    3. "This artifact belongs
+    in a museum, not in your hands!"'
+  nextStates:
+  - {fileID: 11400000, guid: 7ddd435052176dd4d8a5b6899a9a858a, type: 2}
+  - {fileID: 11400000, guid: 7ddd435052176dd4d8a5b6899a9a858a, type: 2}
+  - {fileID: 11400000, guid: 7ddd435052176dd4d8a5b6899a9a858a, type: 2}
+  achievement: 

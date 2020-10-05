@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: B6- Recollection (2)
+  m_EditorClassIdentifier: 
+  storyText: 'You wonder how this could have something to do with opening that door.
+    Thinking about the reason you were out on this market that day, you remembered
+    that you met an eccentric old man who claimed to possess invaluable artifacts
+    that were holding the secrets to the Lost Artifact. He sold you one of these
+    "invaluable" artifacts for a few pesos, which made you think that he was just
+    a scam.
+
+    The object he sold you was of a cubic shape with complex engravings
+    on one side. Dominguez spent nights studying it but he never managed to get anything
+    useful out of it.
+
+
+    1. "That cube?"'
+  nextStates:
+  - {fileID: 11400000, guid: 71b96b78c3853d948bd8ca93032ecd43, type: 2}
+  achievement: 

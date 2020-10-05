@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: B1- More On Our Hero
+  m_EditorClassIdentifier: 
+  storyText: 'You take a few steps away from the Salazar and his men and pull the
+    map from your jeans. The temple is so close. The Lost Artifact had to be there.
+
+
+    A
+    few months ago, you had been tasked by your boss to write a sensational paper
+    for the next special issue of "Mankind In Stones". You were just a journalist.
+    Yet, here you were, in the deepest of the jungle, looking for a priceless relic
+    of the Mayan civilization.
+
+
+    Moving forward, you think that Dominguez, who
+    was your guide until then, was now the one following you. You could not understand
+    yourself why you were driven by such a burning passion.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: b960d5672d2732947a9a2169172964d7, type: 2}
+  achievement: 

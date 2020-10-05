@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D12- Running Away
+  m_EditorClassIdentifier: 
+  storyText: 'You rush to the exit of the tomb, shortly followed by Dominguez. Behind
+    you, rocks are falling from the ceiling and walls are collapsing in a deafening
+    ruckus.
+
+
+    You run into the trapped corridor but your path is blocked by
+    the unfolded spears. Through the deadly pieces of metal, you can see the exit.
+    So close, yet so far.
+
+
+    You start to crawl, dragging your sore body under
+    the spears, past Salazar''s men mutilated bodies hanging above you, pulling yourself
+    painfully through the blood and the dirt and the rubble.
+
+    The walls are
+    shaking even louder and the exit seems so close now.
+
+    Eventually, you are
+    able to stand up and starts to run towards the light.
+
+
+    That''s when you
+    hear Dominguez let out a cry of pain.
+
+
+    Standing in the entrance, you need
+    to make one last decision.
+
+    1. Risk everything to pull Dominguez out.
+
+    2.
+    Exit the temple and leave Dominguez behind.'
+  nextStates:
+  - {fileID: 11400000, guid: 5875e00a0cf0fc94e87f9f4041485e17, type: 2}
+  - {fileID: 11400000, guid: fc8ec29811a7f5548803c9f84e25ecf2, type: 2}

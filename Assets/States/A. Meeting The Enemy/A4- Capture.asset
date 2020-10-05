@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A4- Capture
+  m_EditorClassIdentifier: 
+  storyText: "A few moment later, an other man appears with a large grin on his face.
+    You knew that face. Salazar Escuela. He says to his men that they'll leave as
+    soon as they've finished to prepare the explosive. \r\n\r\nYou suddenly feel
+    a round hard piece of metal thrusting into your back. A man screams in Spanish.
+    This was an other one of Salazar's men! The next moment, he's escorting you and
+    Dominguez at gunpoint to Salazar.\r\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: a696be492cc4ab846a200b60e57f0d76, type: 2}

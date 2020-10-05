@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A11b- Mercy
+  m_EditorClassIdentifier: 
+  storyText: 'Salazar''s man falls unconscious in the grass. He''ll wake up with
+    a big bump on the head and missing teeth, but he''ll live.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 561c9fb448cb3354b8e397ebf1785393, type: 2}
+  achievement: 

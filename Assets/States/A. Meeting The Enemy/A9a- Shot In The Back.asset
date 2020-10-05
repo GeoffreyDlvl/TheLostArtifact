@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A9a- Shot In The Back
+  m_EditorClassIdentifier: 
+  storyText: 'You suddenly start to run, hoping to get into the thickness of the
+    jungle before the armed man get you into his line of fire. But his rifle was
+    already pointing at you and a second after you started running, you hear the
+    loud noise of a gun fired. You feel a sharp pain in your back when the bullets
+    hit you.
+
+
+    You fall on the ground and manage to turn around, only to see
+    the barrel of the rifle aiming at your face. You never even had the time to hear
+    the second shot.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: b8a1a88d2ca0452428a44cb7606b62c2, type: 2}
+  achievement: Hopeless run

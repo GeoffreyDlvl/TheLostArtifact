@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D6- Confrontation
+  m_EditorClassIdentifier: 
+  storyText: '"I have enough of you", Salazar spits at you. "You went this far, but
+    this is the end of the road."
+
+    
+
+    Salazar pulls the trigger.
+
+    
+
+    But
+    the gun gets jammed with thick blood and dirt!
+
+    
+
+    Quick! What''s your
+    move?
+
+    1. Jump on Salazar.
+
+    2. Stay stuck, frozen with fear and do
+    nothing.'
+  nextStates:
+  - {fileID: 11400000, guid: a990c3e8af0b8dc4da2befb06253a0e5, type: 2}
+  - {fileID: 11400000, guid: 671b209c5f2eab14d80f5457fc560233, type: 2}

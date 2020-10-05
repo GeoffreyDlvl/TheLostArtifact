@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A1- Spotting Something
+  m_EditorClassIdentifier: 
+  storyText: "As you're stepping out of the thick jungle into a clearing, your eyes
+    focused on the map, you feel a robust hand grasping your shoulder. \r\nDominguez
+    brings his index over his mouth to gesture a shush. You quickly folds the map
+    to the Lost Artifact into the rear pocket of your jeans and crouch behind a bush.\r\nYou
+    listen carefully and hear it too: the low humming of a car and the sound of doors
+    shut down. Far into the open space in front of you, you can make out gray shapes.\r\nYou
+    look at Dominguez, worried, and you read fear in his eyes.\r\n\r\nWhat should
+    you do now?\r\n1. Take the binoculars out of your backpack and observe the source
+    of the noises.\r\n2. Stay low and approach stealthily. "
+  nextStates:
+  - {fileID: 11400000, guid: 323cc7b31910c6747a505cdc08897d19, type: 2}
+  - {fileID: 11400000, guid: 35924f174bb78e74a8a3bcf58991ab2e, type: 2}

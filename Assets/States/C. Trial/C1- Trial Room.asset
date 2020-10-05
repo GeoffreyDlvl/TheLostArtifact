@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: C1- Trial Room
+  m_EditorClassIdentifier: 
+  storyText: 'You step into a plain rectangular corridor. You both stop and take
+    a moment to study the room. The ray of your flashlight dances on the stone walls.
+    You can see hundreds of small circular openings along the opposite walls of the
+    corridor but you can''t understand their purpose. It smells like iron.
+
+
+    At
+    the end of the corridor, you can see a grate. If you''re lucky enough, the artifact
+    will be in the next room.
+
+
+    What should you do now?
+
+    1. Walk to the gate.
+
+    2.
+    Investigate the room more thoroughly.'
+  nextStates:
+  - {fileID: 11400000, guid: 4125d418eccc01e4f9966787ff7cafc0, type: 2}
+  - {fileID: 11400000, guid: 75ebbcd1ff9cce0409a37b6c1e3a5d5a, type: 2}
+  achievement: 

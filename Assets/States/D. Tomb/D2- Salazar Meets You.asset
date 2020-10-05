@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D2- Salazar Meets You
+  m_EditorClassIdentifier: 
+  storyText: 'You are about to push the heavy lid on the tomb when you hear the sound
+    of shrieking metal. Screams echo from the trapped corridor you just crossed.
+
+    
+
+    A
+    moment later, Salazar enters the Tomb Room, covered with blood.
+
+    
+
+    ''''You?!"
+
+    
+
+    Salazar''s
+    face shows nothing but bestial rage when he shout at you.
+
+    
+
+    "The journalist!"
+
+    
+
+    Pulls
+    a gun and point it at you.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 4b74a635380ab1b40abef81927079af2, type: 2}

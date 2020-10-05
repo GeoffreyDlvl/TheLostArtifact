@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A6- Comply Or Fight
+  m_EditorClassIdentifier: 
+  storyText: 'Salazar looks at you with nothing but a smirk on his face. He makes
+    big gestures and mutters some Spanish word to his three men.  He picks up Dominguez
+    who screams with fear and storms into the jungle, followed by two of his men
+    and Dominguez. You noticed from the corner of your eyes one of the men picked
+    up a package from the vehicle.
+
+
+    You''re now alone with the last of Salazar''s
+    men. He grabs you, raises you forcefully on your feet and pushes you into the
+    deep and dark jungle. He''s pointing his rifle at you.
+
+
+    What should you
+    do now?
+
+    1. Comply and move forward.
+
+    2. Turn around and fight the man.
+
+    3.
+    Try to run away.'
+  nextStates:
+  - {fileID: 11400000, guid: 6c85ee4ab75d34a4985c8a9ab877fec3, type: 2}
+  - {fileID: 11400000, guid: 222d419194f5178498dee86d95e41532, type: 2}
+  - {fileID: 11400000, guid: 5ba910f9bec825a40a0939edbc418c59, type: 2}
+  achievement: 

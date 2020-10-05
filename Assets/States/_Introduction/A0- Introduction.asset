@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A0- Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to The Lost Artifact.
+
+
+    You are on the path to find an
+    invaluable relic.
+
+    But that path is yours only. Make your own choices and
+    live your own adventure!
+
+
+    Press the key number on your keyboard to make
+    a decision and see what happens. Be careful, acting carelessly can lead to your
+    death!
+
+
+    You can push the ''r'' key at any point to restart your adventure.
+
+
+    The
+    ''a'' key displays the achievements you have unlocked. Replay this adventure
+    taking different decisions and try to unlock them all!
+
+
+    1. Look at your
+    map.'
+  nextStates:
+  - {fileID: 11400000, guid: 78617abd72690c545b36a53f5f11e4e1, type: 2}
+  achievement: 

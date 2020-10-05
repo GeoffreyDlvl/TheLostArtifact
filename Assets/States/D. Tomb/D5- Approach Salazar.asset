@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D5- Approach Salazar
+  m_EditorClassIdentifier: 
+  storyText: 'You walk to the men, trying to be as silent as possible. But despite
+    your efforts, you are soaked wet with fresh blood and Salazar hears the splash
+    of the liquid on the stones. He turns around.
+
+    
+
+    "You again?", he screams
+    with surprise.
+
+    
+
+    Sighing with irritation, Salazar pulls out a gun
+    and point it at you.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 4b74a635380ab1b40abef81927079af2, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: C2- Dominguez Warning
+  m_EditorClassIdentifier: 
+  storyText: "As you make a first step towards the grate, Dominguez strong hand grasps
+    your arm. \r\n\r\n\"Are you sure about this?\"\r\n1. \"I am sure, let's go.\"\r\n2.
+    \"You're right, we should take a closer look to this room.\""
+  nextStates:
+  - {fileID: 11400000, guid: 2a99c24209581d2459e1aba31d02d3f7, type: 2}
+  - {fileID: 11400000, guid: 75ebbcd1ff9cce0409a37b6c1e3a5d5a, type: 2}

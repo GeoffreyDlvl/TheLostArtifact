@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: A7- The execution
+  m_EditorClassIdentifier: 
+  storyText: 'The man escorts you far into the jungle. You''ve been walking for at
+    least 10 minutes now. Suddenly, he screams at you to stop. You feel a painful
+    kick behind your knee that throws you to the ground. You turn around and look
+    at Salazar''s man. You can read it in his eyes. This is it. This is the end.
+
+
+    But
+    suddenly, there''s an explosion far into the deepest of the jungle that makes
+    the earth shake. For one moment, your executioner looks away.
+
+
+    What''s your
+    move?
+
+    1. Time to fight back!
+
+    2. This is too risky, you should way for
+    a better opportunity.'
+  nextStates:
+  - {fileID: 11400000, guid: 222d419194f5178498dee86d95e41532, type: 2}
+  - {fileID: 11400000, guid: 140947fd0f3ab194fa1adf2f57b87ac5, type: 2}
+  achievement: 

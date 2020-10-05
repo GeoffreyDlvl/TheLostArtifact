@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D8- Missed Opportunity - 2
+  m_EditorClassIdentifier: 
+  storyText: 'Your body is paralyzed and you are unable to move. Salazar swears in
+    Spanish and throws his gun away. Turning to Dominguez, he decidedly walks to
+    him and reaches for something you hadn''t noticed, hidden under the belt of your
+    friend.
+
+
+
+    That''s an other gun. Dominguez had a gun? Why didn''t he tell
+    you?
+
+
+
+    Your questions will never be answered. The sound of three gunshots
+    reverberate in the yet undisturbed Tomb Room when Salazar shoots you.
+
+
+
+    You
+    body is projected on the ground. You reach for your chest and your trembling
+    fingers feel the wetness of your blood spreading everywhere. You gasp for air
+    but something thick is obstructing you throat. You vision fades to black and
+    the last thing you can see is Salazar handing his gun back to Dominguez.
+
+
+
+    1.
+    Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: b8a1a88d2ca0452428a44cb7606b62c2, type: 2}
+  achievement: Missed opportunity - 2

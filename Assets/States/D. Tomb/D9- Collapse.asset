@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D9- Collapse
+  m_EditorClassIdentifier: 
+  storyText: "''You were supposed to get rid of this parasite long ago\", Salazar
+    snaps at a crying Dominguez.\r\n\r\n\"I'm getting tired of this\", exclaims Salazar
+    before he walks to the tomb and pushes the lid.\r\n\r\nWith an expression of
+    wander and greed, Salazar pulls something out of the grave and holds it in the
+    air. A small shiny object that seems to reflect the sunlight in thousands of
+    different colors. You could swear that some of them were colors you had never
+    seen before.\r\n\r\nSalazar expressed a vocal and loud laugh when the earth starts
+    to shaken.\r\n\r\n1. Continue...\r"
+  nextStates:
+  - {fileID: 11400000, guid: 4c6a254efe488684aa7a0d19a7fb9c60, type: 2}

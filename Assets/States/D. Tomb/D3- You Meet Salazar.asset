@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f0a367f0d6cb84db06d2d9006d86ad, type: 3}
+  m_Name: D3- You Meet Salazar
+  m_EditorClassIdentifier: 
+  storyText: 'You see Salazar and Dominguez in a huge and heavily decorated room.
+    A large beam of light illuminated the tomb of the last Mayan king in the center
+    of the room.
+
+    
+
+    Dominguez is squatting near the tomb, seemingly trying
+    to decipher old engravings. Both are covered with blood.
+
+    
+
+    You approach
+    the men, clueless of what to do next.
+
+    
+
+    What should you do now?
+
+    1.
+    Shout at Salazar.
+
+    2. Silently approach them.'
+  nextStates:
+  - {fileID: 11400000, guid: 21eccf91c6684ce4da5e59e2ae2bcd00, type: 2}
+  - {fileID: 11400000, guid: cb45745737fdb4846a2062e4d0a12928, type: 2}
